@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!-- <img src="https://komarev.com/ghpvc/?username=majidzeno&label=Profile%20views&color=0e75b6&style=flat" alt="badge" /> -->
 <!--
 **majidzeno/majidzeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
